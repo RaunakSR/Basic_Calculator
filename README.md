@@ -14,7 +14,7 @@ Clone or download the repository.
 Open the index.html file in any modern web browser (Google Chrome, Firefox, etc.).
 bash
 Copy code
-git clone https://github.com/RaunakSR/basic-calculator.git
+git clone https://github.com/RaunakSR/Basic_Calculator.git
 cd basic-calculator
 # Open index.html in a browser.
 Code Overview
